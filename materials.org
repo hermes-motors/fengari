@@ -3,12 +3,12 @@
 + [X] 1x 1P52FMI exhaust
 + [X] 2x 415H chain - 11.8872mm overall width, 4.75mm inner width
 + [X] 1x M8 Foot pegs
-+ [ ] 5x M8 threaded rod x 200mm
-+ [ ] 1x 15mm (diameter) x 37mm (length) keyshaft
-+ [ ] 2x 5mm x 5mm key
-+ [ ] 2x Bearing 6902-2RS 15mm ID, 28mm OD, 7mm W
-+ [ ] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
-+ [ ] 4x M6 x 30mm
++ [X] 5x M8 threaded rod x 200mm
++ [X] 1x 15mm (diameter) x 37mm (length) keyshaft
++ [X] 2x 5mm x 5mm key
++ [X] 4x M6 x 30mm
++ [X] 2x Bearing 6902-2RS 15mm ID, 28mm OD, 7mm W
++ [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 
 * Machined
 + [ ] 2x 3.18mm flat face mounts
@@ -29,13 +29,11 @@
 + [ ] Spot welder 240v
 + [ ] Belt sander
 
-* Prototyping Materials
-+ [X] 4x M6 x 25
-+ [X] 3x M8 x 60
-
-* Test
-+ [X] Sprocket Assembly
-+ [ ] Jackshaft Assembly
-
-* Optimizations
-+ Use folded assemblies
+* 1P52FMI Wiring
+|----------+--------|
+| Trigger  | Blue   |
+| Negative | Green  |
+| Ignition | Black  |
+| Lighting | Yellow |
+| Lighting | Yellow |
+|----------+--------|
