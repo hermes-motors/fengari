@@ -11,16 +11,16 @@
 + [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 
 * Machined
-+ [ ] 2x 3.18mm flat face mounts
-+ [ ] 1x 3.18mm support brace
-+ [ ] 2x 3.18mm jackshaft mount
-+ [ ] 1x 3.18mm exhaust mount
-+ [ ] 1x 3.18mm foot pedal mount
-+ [ ] 2x 3.18, 4.75mm jackshaft sprocket
-+ [ ] 1x 3.18, 4.75mm sprocket
-+ [ ] 1x 2.54mm sprocket lock
-+ [ ] 1x 12.7mm sprocket spacer
-+ [ ] 1x 6.35mm threaded sprocket spacer
++ [X] 2x 3.18mm flat face mounts
++ [X] 1x 3.18mm support brace
++ [X] 2x 3.18mm jackshaft mount
++ [X] 1x 3.18mm exhaust mount
++ [X] 1x 3.18mm foot pedal mount
++ [X] 2x 3.18, 4.75mm jackshaft sprocket
++ [X] 1x 3.18, 4.75mm sprocket
++ [X] 1x 2.54mm sprocket lock
++ [X] 1x 12.7mm sprocket spacer
++ [X] 1x 6.35mm threaded sprocket spacer
 
 * Tools
 + [X] Socket 13mm
