@@ -22,10 +22,21 @@
 + [X] 1x 12.7mm sprocket spacer
 + [X] 1x 6.35mm threaded sprocket spacer
 
+* Spacers
+PLA Prototype
+15mm OD, 10mm ID (8mm ID)
+
++ [ ] 1x 5mm exhaust hanger spacer
++ [ ] 1x 10mm engine mount offset spacer
++ [ ] 5x 31.0mm jackshaft spacers
++ [ ] 3x 31.0mm right side engine mount spacers
++ [ ] 3x 11mm pre-jackshaft spacers
++ [ ] 3x 56.5mm inner frame spacers
+ 
 * Tools
 + [X] Socket 13mm
 + [X] Tap and die set
-+ [ ] Steel miter saw
++ [ ] 12 inch Steel miter saw
 + [ ] Spot welder 240v
 + [ ] Belt sander
 
