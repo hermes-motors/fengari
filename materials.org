@@ -2,12 +2,13 @@
 + [X] 1x 1P52FMI engine (including intake, carburetor, shifter, kickstarter, CDI)
 + [X] 1x 1P52FMI exhaust
 + [X] 2x 415H chain - 11.8872mm overall width, 4.75mm inner width
++ [X] 1x 415H offset link
 + [X] 1x M8 Foot pegs
 + [X] 5x M8 threaded rod x 200mm
-+ [X] 1x 15mm (diameter) x 37mm (length) keyshaft
-+ [X] 2x 5mm x 5mm key
++ [X] 1x keyshaft 15mm (diameter) x 37mm (length)
++ [X] 2x key 5mm x 5mm
 + [X] 4x M6 x 30mm
-+ [X] 2x Bearing 6902-2RS 15mm ID, 28mm OD, 7mm W
++ [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 
 * Machined
