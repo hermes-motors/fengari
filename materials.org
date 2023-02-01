@@ -32,7 +32,7 @@ PLA Prototype
 + [ ] 5x 31.0mm jackshaft spacers
 + [ ] 3x 31.0mm right side engine mount spacers
 + [ ] 3x 11mm pre-jackshaft spacers
-+ [ ] 3x 56.5mm inner frame spacers
++ [ ] 3x 56mm inner frame spacers
 + [ ] 2x 14mm engine mount to jackshaft mount spacers
  
 * Tools
