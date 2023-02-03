@@ -38,8 +38,6 @@ PLA Prototype
 * Tools
 + [X] Socket 13mm
 + [X] Tap and die set
-+ [ ] 12 inch Steel miter saw
-+ [ ] Spot welder 240v
 + [ ] Belt sander
 
 * 1P52FMI Wiring
