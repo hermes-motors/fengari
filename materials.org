@@ -25,7 +25,7 @@
 
 * Spacers
 PLA Prototype
-15mm OD, 10mm ID (8mm ID)
+15mm OD, 8mm ID
 
 + [X] 1x 5mm exhaust hanger spacer
 + [X] 1x 10mm engine mount offset spacer
