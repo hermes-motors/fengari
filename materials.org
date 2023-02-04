@@ -14,9 +14,9 @@
 * Machined
 + [X] 2x 3.18mm flat face mounts
 + [X] 1x 3.18mm support brace
-+ [X] 2x 3.18mm jackshaft mount
++ [ ] 2x 3.18mm jackshaft mount
 + [X] 1x 3.18mm exhaust mount
-+ [X] 1x 3.18mm foot pedal mount
++ [ ] 1x 6.30mm foot pedal mount
 + [X] 2x 3.18, 4.75mm jackshaft sprocket
 + [X] 1x 3.18, 4.75mm sprocket
 + [X] 1x 2.54mm sprocket lock
