@@ -11,18 +11,18 @@
 + [X] 2x key 5mm x 5mm
 + [X] 4x M6 x 30mm (sprocket)
 + [ ] 4x M6 x 15mm (electrical enclosure)
-+ [ ] 4x M8 x 15mm (foot pedal mount)
++ [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 
 * Machined
 + [X] 2x 3.18mm flat face mounts
 + [X] 1x 3.18mm support brace
-+ [ ] 1x 3.18mm jackshaft mount 0
-+ [ ] 1x 3.18mm jackshaft mount 1
-+ [ ] 1x 1.02mm jackshaft cover
++ [X] 1x 3.18mm jackshaft mount 0
++ [X] 1x 3.18mm jackshaft mount 1
++ [X] 1x 1.02mm jackshaft cover
 + [X] 1x 3.18mm exhaust mount
-+ [ ] 1x 6.30mm foot pedal mount
++ [X] 1x 6.30mm foot pedal mount
 + [X] 2x 3.18, 4.75mm jackshaft sprocket
 + [X] 1x 3.18, 4.75mm sprocket
 + [X] 1x 2.54mm sprocket lock
@@ -56,7 +56,3 @@
 | Lighting | Yellow |
 | Lighting | Yellow |
 |----------+--------|
-
-* Misc
-DEADLINE: <2023-02-13 Mon>
-Coupon: =SAVECART1022=
