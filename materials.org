@@ -5,16 +5,22 @@
 + [X] 1x 415H offset link
 + [X] 1x M8 Foot pegs
 + [X] 5x M8 threaded rod x 200mm
++ [X] 14x M8 stainless steel washers
++ [X] 10x M8 stainless steel nuts
 + [X] 1x keyshaft 15mm (diameter) x 37mm (length)
 + [X] 2x key 5mm x 5mm
-+ [X] 4x M6 x 30mm
++ [X] 4x M6 x 30mm (sprocket)
++ [ ] 4x M6 x 15mm (electrical enclosure)
++ [ ] 4x M8 x 15mm (foot pedal mount)
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 
 * Machined
 + [X] 2x 3.18mm flat face mounts
 + [X] 1x 3.18mm support brace
-+ [ ] 2x 3.18mm jackshaft mount
++ [ ] 1x 3.18mm jackshaft mount 0
++ [ ] 1x 3.18mm jackshaft mount 1
++ [ ] 1x 1.02mm jackshaft cover
 + [X] 1x 3.18mm exhaust mount
 + [ ] 1x 6.30mm foot pedal mount
 + [X] 2x 3.18, 4.75mm jackshaft sprocket
@@ -23,8 +29,10 @@
 + [X] 1x 12.7mm sprocket spacer
 + [X] 1x 6.35mm threaded sprocket spacer
 
+* Printed
++ [X] 1x electrical enclosure
+
 * Spacers
-PLA Prototype
 15mm OD, 8mm ID
 
 + [X] 1x 5mm exhaust hanger spacer
@@ -38,7 +46,7 @@ PLA Prototype
 * Tools
 + [X] Socket 13mm
 + [X] Tap and die set
-+ [ ] Belt sander
++ [ ] Grinder
 
 * 1P52FMI Wiring
 |----------+--------|
@@ -48,3 +56,7 @@ PLA Prototype
 | Lighting | Yellow |
 | Lighting | Yellow |
 |----------+--------|
+
+* Misc
+DEADLINE: <2023-02-13 Mon>
+Coupon: =SAVECART1022=
