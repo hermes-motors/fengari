@@ -9,18 +9,21 @@
 + [X] 10x M8 stainless steel nuts
 + [X] 1x keyshaft 15mm (diameter) x 37mm (length)
 + [X] 2x key 5mm x 5mm
-+ [X] 4x M6 x 30mm (sprocket)
++ [ ] 4x M6 x 35mm (sprocket)
 + [ ] 4x M6 x 15mm (electrical enclosure)
 + [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
++ [X] 6x M2 x 10mm (bearing retainer)
 
 * Machined
 + [X] 2x 3.175mm flat face mounts
 + [X] 1x 3.175mm support brace
 + [X] 2x 3.175mm jackshaft mount
 + [X] 4x 1.88mm jackshaft bearing retainer
-+ [ ] 1x 11mm jackshaft sprocket spacer
++ [X] 1x 6mm jackshaft sprocket spacer
++ [X] 1x 11mm jackshaft sprocket spacer
++ [X] 1x 16mm jackshaft sprocket spacer
 + [X] 1x 1.02mm jackshaft cover
 + [X] 1x 3.175mm exhaust mount
 + [X] 1x 3.175mm foot pedal mount
@@ -39,7 +42,7 @@
 
 + [X] 1x 5mm exhaust hanger spacer
 + [X] 1x 10mm engine mount offset spacer
-+ [ ] 5x 40.0mm jackshaft spacers
++ [X] 5x 40.0mm jackshaft spacers
 + [X] 3x 31.0mm right side engine mount spacers
 + [X] 3x 12.5mm pre-jackshaft spacers
 + [X] 3x 56mm inner frame spacers
@@ -48,7 +51,6 @@
 * Tools
 + [X] Socket 13mm
 + [X] Tap and die set
-+ [ ] Spot welder
 
 * 1P52FMI Wiring
 |----------+--------|
