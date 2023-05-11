@@ -22,8 +22,9 @@
 + [X] 2x 3.175mm jackshaft mount
 + [X] 4x 1.88mm jackshaft bearing retainer
 + [X] 1x 6mm jackshaft sprocket spacer
-+ [X] 1x 11mm jackshaft sprocket spacer
-+ [X] 1x 16mm jackshaft sprocket spacer
++ [ ] 1x 13mm jackshaft sprocket spacer
++ [ ] 1x 14mm jackshaft sprocket spacer
++ [X] 6x 1mm jackshaft sprocket spacer shim (use to adjust chain line)
 + [X] 1x 1.02mm jackshaft cover
 + [X] 1x 3.175mm exhaust mount
 + [X] 1x 3.175mm foot pedal mount
