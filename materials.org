@@ -34,7 +34,7 @@
 + [X] 1x electrical enclosure
 + [X] 1x 6mm jackshaft sprocket spacer
 + [X] 1x 12mm jackshaft sprocket spacer
-+ [X] 1x 8mm jackshaft sprocket spacer
++ [X] 1x 11mm jackshaft sprocket spacer
 + [X] 6x 0.5mm jackshaft sprocket spacer shim (use to finely adjust chain line)
 
 * Spacers
