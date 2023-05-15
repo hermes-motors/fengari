@@ -8,7 +8,7 @@
 + [X] 14x M8 stainless steel washers
 + [X] 10x M8 stainless steel nuts
 + [X] 1x keyshaft 15mm (diameter) x 37mm (length)
-+ [X] 2x key 5mm x 5mm
++ [X] 1x key 5mm x 5mm x 35mm
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
 + [X] 4x M8 x 15mm (foot pedal mount)
