@@ -7,7 +7,7 @@
 + [X] 5x M8 threaded rod x 200mm (cut down to 180mm)
 + [X] 14x M8 stainless steel washers
 + [X] 10x M8 stainless steel nuts
-+ [X] 1x keyshaft 15mm (diameter) x 37mm (length)
++ [X] 1x keyshaft 15mm (diameter) x 50mm (length)
 + [X] 1x key 5mm x 5mm x 35mm
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
