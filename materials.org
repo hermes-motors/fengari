@@ -13,7 +13,6 @@
 + [X] 4x M6 x 15mm (electrical enclosure)
 + [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
-+ [X] 1x Oil embedded sleeve bearing, 15mm ID, 15mm length
 + [X] 6x M2 x 10mm (bearing retainer)
 
 * Machined
