@@ -14,7 +14,7 @@
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
 + [X] 6x M2 x 10mm (bearing retainer)
-+ [ ] 6x M2 nuts (bearing retainer)
++ [X] 6x M2 nuts (bearing retainer)
 
 * Machined
 + [X] 2x 3.175mm flat face mounts
