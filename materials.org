@@ -4,16 +4,17 @@
 + [X] 2x 415H chain - 11.8872mm overall width, 4.75mm inner width
 + [X] 1x 415H offset link
 + [X] 1x M8 Foot pegs
-+ [X] 5x M8 threaded rod x 200mm (cut down to 180mm)
-+ [X] 14x M8 stainless steel washers
-+ [X] 10x M8 stainless steel nuts
 + [X] 1x keyshaft 15mm (diameter) x 50mm (length)
 + [X] 1x key 5mm x 5mm x 35mm
++ [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
++ [X] 5x M8 threaded rod x 200mm (cut down to 180mm) (engine mount)
++ [X] 10x M8 nuts (engine mount)
++ [X] 14x M8 washers
++ [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
-+ [X] 4x M8 x 15mm (foot pedal mount)
-+ [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 6x M2 x 10mm (bearing retainer)
++ [ ] 6x M2 nuts (bearing retainer)
 
 * Machined
 + [X] 2x 3.175mm flat face mounts
@@ -47,10 +48,6 @@
 + [X] 3x 56mm inner frame spacers
 + [X] 2x 15.5mm engine mount to jackshaft mount spacers
  
-* Tools
-+ [X] Socket 13mm
-+ [X] Tap and die set
-
 * 1P52FMI Wiring
 |----------+--------|
 | Trigger  | Blue   |
