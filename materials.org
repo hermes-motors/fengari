@@ -8,8 +8,9 @@
 + [X] 1x key 5mm x 5mm x 35mm
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
 + [X] 5x M8 threaded rod x 200mm (cut down to 180mm) (engine mount)
-+ [X] 10x M8 nuts (engine mount)
-+ [X] 14x M8 washers
++ [X] 11x M8 nuts
++ [X] 15x M8 washers
++ [X] 1x M8 x 10mm (exhaust mount)
 + [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
