@@ -7,11 +7,10 @@
 + [X] 1x keyshaft 15mm (diameter) x 50mm (length)
 + [X] 1x key 5mm x 5mm x 35mm
 + [X] 2x 6902-2RS Bearing 15mm ID, 28mm OD, 7mm W
-+ [X] 5x M8 threaded rod x 200mm (cut down to 180mm) (engine mount)
++ [X] 5x M8 threaded rod x 300mm (cut down to 180mm) (engine mount)
 + [X] 11x M8 nuts
 + [X] 15x M8 washers
 + [X] 1x M8 x 10mm (exhaust mount)
-+ [X] 4x M8 x 15mm (foot pedal mount)
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
 + [X] 6x M2 x 10mm (bearing retainer)
@@ -47,12 +46,3 @@
 + [X] 3x 12.5mm pre-jackshaft spacers
 + [X] 3x 56mm inner frame spacers
 + [X] 2x 15.5mm engine mount to jackshaft mount spacers
- 
-* 1P52FMI Wiring
-|----------+--------|
-| Trigger  | Blue   |
-| Negative | Green  |
-| Ignition | Black  |
-| Lighting | Yellow |
-| Lighting | Yellow |
-|----------+--------|
