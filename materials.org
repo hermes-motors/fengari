@@ -23,7 +23,6 @@
 + [X] 2x 3.175mm jackshaft mount
 + [X] 4x 1.88mm jackshaft bearing retainer
 + [X] 1x 3.175mm exhaust mount
-+ [X] 1x 3.175mm foot pedal mount
 + [X] 2x 3.175mm jackshaft sprocket
 + [X] 1x 3.175mm sprocket
 + [X] 1x 2.54mm sprocket lock
