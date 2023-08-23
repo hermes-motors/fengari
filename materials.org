@@ -13,7 +13,7 @@
 + [X] 1x M8 x 10mm (exhaust mount)
 + [X] 4x M6 x 35mm (sprocket)
 + [X] 4x M6 x 15mm (electrical enclosure)
-+ [X] 6x M2 x 10mm (bearing retainer)
++ [X] 6x M2 x 16mm (bearing retainer)
 + [X] 6x M2 nuts (bearing retainer)
 
 * Machined
@@ -28,6 +28,7 @@
 + [X] 1x 12.7mm sprocket spacer
 + [X] 1x 4.75mm sprocket spacer
 + [X] 1x 6.35mm threaded sprocket spacer
++ [X] 1x 4.75mm shift relocater
 
 * Printed
 + [X] 1x electrical enclosure
