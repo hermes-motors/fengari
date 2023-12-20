@@ -47,3 +47,6 @@
 + [X] 3x 12.5mm pre-jackshaft spacers
 + [X] 3x 56mm inner frame spacers
 + [X] 2x 15.5mm engine mount to jackshaft mount spacers
+
+* Get
++ [ ] 12v voltage regulator
