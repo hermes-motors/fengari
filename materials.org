@@ -23,19 +23,19 @@
 + [X] 4x 1.88mm jackshaft bearing retainer
 + [X] 1x 3.175mm exhaust mount
 + [X] 2x 3.175mm jackshaft sprocket
-+ [X] 1x 3.175mm sprocket
-+ [X] 1x 2.54mm sprocket lock
-+ [X] 1x 12.7mm sprocket spacer
-+ [X] 1x 4.75mm sprocket spacer
-+ [X] 1x 6.35mm threaded sprocket spacer
++ [X] 1x 6.35mm engine threaded sprocket spacer
++ [X] 1x 2.54mm engine sprocket lock
++ [X] 1x 3.175mm engine sprocket
 + [X] 1x 4.75mm shift relocater
 
 * Printed
++ [ ] 1x 7.00 mm engine sprocket spacer, 5.5 inner radius height
 + [X] 1x electrical enclosure
-+ [ ] 1x 5.5mm jackshaft sprocket spacer
-+ [ ] 1x 13.5mm jackshaft sprocket spacer
-+ [ ] 1x 10mm jackshaft sprocket spacer
-+ [X] 6x 0.5mm jackshaft sprocket spacer shim (use to finely adjust chain line)
++ [X] 1x 5.5mm jackshaft sprocket spacer
++ [X] 1x 13.5mm jackshaft sprocket spacer
++ [X] 1x 10mm jackshaft sprocket spacer
++ [X] 6x 0.5mm jackshaft sprocket spacer shim (use to finely adjust
+  chain line)
 
 * Spacers
 15mm OD, 8mm ID
