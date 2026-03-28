@@ -27,9 +27,10 @@
 + [X] 1x 2.54mm engine sprocket lock
 + [X] 1x 3.175mm engine sprocket
 + [X] 1x 4.75mm shift relocater
++ [ ] 1x 4.75mm chain tensioner
 
 * Printed
-+ [ ] 1x 7.00 mm engine sprocket spacer, 5.5 inner radius height
++ [X] 1x 7.00 mm engine sprocket spacer, 5.5 inner radius height
 + [X] 1x electrical enclosure
 + [X] 1x 5.5mm jackshaft sprocket spacer
 + [X] 1x 13.5mm jackshaft sprocket spacer
@@ -48,5 +49,5 @@
 + [X] 3x 56mm inner frame spacers
 + [X] 2x 15.5mm engine mount to jackshaft mount spacers
 
-* Get
-+ [ ] 12v voltage regulator
+* Complete
++ [ ] Wiring Harness
