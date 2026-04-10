@@ -2,7 +2,6 @@
 + [X] 1x 1P52FMI engine (including intake, carburetor, shifter, kickstarter, CDI)
 + [X] 1x 1P52FMI exhaust
 + [X] 2x 415H chain - 11.8872mm overall width, 4.75mm inner width
-+ [X] 1x 415H offset link
 + [X] 1x M8 Foot pegs
 + [X] 1x keyshaft 15mm (diameter) x 50mm (length)
 + [X] 1x key 5mm x 5mm x 35mm
@@ -21,22 +20,15 @@
 + [X] 1x 3.175mm support brace
 + [X] 2x 3.175mm jackshaft mount
 + [X] 4x 1.88mm jackshaft bearing retainer
-+ [X] 1x 3.175mm exhaust mount
-+ [X] 2x 3.175mm jackshaft sprocket
-+ [X] 1x 6.35mm engine threaded sprocket spacer
-+ [X] 1x 2.54mm engine sprocket lock
-+ [X] 1x 3.175mm engine sprocket
++ [ ] 1x 3.175mm exhaust mount
++ [ ] 1x 1.88mm jackshaft bearing cap
++ [ ] 1x jackshaft sprocket
++ [ ] 1x engine sprocket
 + [X] 1x 4.75mm shift relocater
 + [ ] 1x 4.75mm chain tensioner
 
 * Printed
-+ [X] 1x 7.00 mm engine sprocket spacer, 5.5 inner radius height
 + [X] 1x electrical enclosure
-+ [X] 1x 5.5mm jackshaft sprocket spacer
-+ [X] 1x 13.5mm jackshaft sprocket spacer
-+ [X] 1x 10mm jackshaft sprocket spacer
-+ [X] 6x 0.5mm jackshaft sprocket spacer shim (use to finely adjust
-  chain line)
 
 * Spacers
 15mm OD, 8mm ID
